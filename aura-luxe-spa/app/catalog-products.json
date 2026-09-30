@@ -1,0 +1,98 @@
+[
+  {
+    "id": "prod_salon_001",
+    "name": "Full Set Hybrid Lashes",
+    "category": "Lash Extensions",
+    "price": 25000,
+    "currency": "NGN",
+    "durationMinutes": 90,
+    "depositRequired": 10000,
+    "description": "The perfect blend of classic individual lashes and fluffy Russian volume fans. Gives a textured, fluttery, everyday-glam look with feather-light medical grade adhesive.",
+    "image": "products/hybrid_lashes.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_002",
+    "name": "Mega Volume Russian Lashes",
+    "category": "Lash Extensions",
+    "price": 32000,
+    "currency": "NGN",
+    "durationMinutes": 120,
+    "depositRequired": 10000,
+    "description": "Ultra-dense, dark lash line featuring 6D-10D lightweight handmade fans. Ideal for birthdays, bridal events, and high-impact glamour.",
+    "image": "products/hybrid_lashes.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_003",
+    "name": "Deep Cleansing Hydrafacial",
+    "category": "Medspa & Skincare",
+    "price": 35000,
+    "currency": "NGN",
+    "durationMinutes": 75,
+    "depositRequired": 15000,
+    "description": "Medical-grade hydro-dermabrasion that vacuums out blackheads, exfoliates dead skin, and infuses antioxidant hyaluronic serums for an instant red-carpet glow.",
+    "image": "products/hydrafacial.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_004",
+    "name": "Luxury Gel Pedicure & Foot Scrub",
+    "category": "Nail Lounge",
+    "price": 15000,
+    "currency": "NGN",
+    "durationMinutes": 60,
+    "depositRequired": 5000,
+    "description": "Full foot soak, dead skin peel, exfoliating sugar scrub, cuticle grooming, foot massage, and long-lasting UV gel polish of your choice.",
+    "image": "products/luxury_gel_nails.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_005",
+    "name": "Acrylic Full Set + Ombre French",
+    "category": "Nail Lounge",
+    "price": 22000,
+    "currency": "NGN",
+    "durationMinutes": 75,
+    "depositRequired": 10000,
+    "description": "Precision sculpted acrylic tips with baby boomer ombre French fade or custom French tip line. Chip-free for up to 4 weeks.",
+    "image": "products/luxury_gel_nails.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_006",
+    "name": "Full Body Swedish Massage",
+    "category": "Wellness & Spa",
+    "price": 28000,
+    "currency": "NGN",
+    "durationMinutes": 60,
+    "depositRequired": 10000,
+    "description": "Gentle, flowing rhythmic strokes using warm organic lavender oil to release bodily stress, improve circulation, and melt muscle tension.",
+    "image": "products/swedish_massage.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_007",
+    "name": "Deep Tissue Tension Relief Massage",
+    "category": "Wellness & Spa",
+    "price": 34000,
+    "currency": "NGN",
+    "durationMinutes": 75,
+    "depositRequired": 10000,
+    "description": "Firm targeted acupressure addressing chronic neck, shoulder, and lower back tightness caused by long work hours and Lagos traffic.",
+    "image": "products/swedish_massage.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_salon_008",
+    "name": "Knotless Box Braids (Mid-Back)",
+    "category": "Hair Studio",
+    "price": 30000,
+    "currency": "NGN",
+    "durationMinutes": 210,
+    "depositRequired": 10000,
+    "description": "Tension-free, painless knotless parting that protects your edges. Clean square parts with dipped curved ends. Lasts 6-8 weeks.",
+    "image": "products/hybrid_lashes.jpg",
+    "isAvailable": true
+  }
+]

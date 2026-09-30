@@ -1,0 +1,72 @@
+[
+  {
+    "id": "prod_rest_001",
+    "name": "Flame-Grilled Jumbo Croaker Platter",
+    "category": "Seafood Grill",
+    "price": 28000,
+    "currency": "NGN",
+    "description": "Whole 1.2kg ocean croaker fish marinated in scotch bonnet herb butter, wood-smoked over open coals. Served with roasted plantain (boli), yam chips, and spicy pepper dip.",
+    "image": "products/grilled_fish_platter.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_002",
+    "name": "350g Prime Angus Ribeye Steak",
+    "category": "Charcoal Steaks",
+    "price": 38000,
+    "currency": "NGN",
+    "description": "28-day aged USDA prime ribeye steak grilled to your preferred temperature with garlic rosemary butter. Served with creamy truffle mash and Madagascar green peppercorn sauce.",
+    "image": "products/ribeye_steak.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_003",
+    "name": "Creamy Cajun Seafood Alfredo",
+    "category": "Mains & Pasta",
+    "price": 26000,
+    "currency": "NGN",
+    "description": "Tender jumbo tiger prawns and Atlantic calamari rings tossed in a rich cajun cream sauce over fresh tagliatelle, finished with aged Parmigiano Reggiano.",
+    "image": "products/seafood_pasta.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_004",
+    "name": "The Urban Flame Wagyu Burger",
+    "category": "Gourmet Burgers",
+    "price": 16500,
+    "currency": "NGN",
+    "description": "Double smashed prime beef patties on a toasted brioche bun with smoked cheddar, caramelized shallots, crispy beef bacon, and black truffle mayo. Includes seasoned fries.",
+    "image": "products/urban_flame_burger.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_005",
+    "name": "Lagos Sunset Signature Cocktail",
+    "category": "Signature Bar",
+    "price": 8500,
+    "currency": "NGN",
+    "description": "Aged dark rum infused with passion fruit puree, artisanal zobo (hibiscus) reduction, fresh lime, and topped with crisp Italian Prosecco.",
+    "image": "products/lagos_sunset_cocktail.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_006",
+    "name": "VIP Lounge Booth Reservation Deposit",
+    "category": "Reservations",
+    "price": 50000,
+    "currency": "NGN",
+    "description": "Guarantees priority elevated lounge seating for up to 8 guests on Friday/Saturday nights. Full ₦50,000 credited directly toward your total food and bottle service bill.",
+    "image": "media/bar_lounge.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_rest_007",
+    "name": "Standard Group Table Deposit (5+ Guests)",
+    "category": "Reservations",
+    "price": 20000,
+    "currency": "NGN",
+    "description": "Secures an indoor or outdoor terrace dining table for dinner. 100% credited toward your dining order upon arrival.",
+    "image": "media/restaurant_dining_room.jpg",
+    "isAvailable": true
+  }
+]

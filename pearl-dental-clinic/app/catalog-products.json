@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prod_dental_001",
+    "name": "Comprehensive Clinical Exam & Digital X-Ray",
+    "category": "Consultations",
+    "price": 15000,
+    "currency": "NGN",
+    "durationMinutes": 45,
+    "depositRequired": 15000,
+    "description": "Full mouth intraoral photography, digital HD periapical X-rays, periodontal gum screening, and a comprehensive one-on-one consultation with Dr. Adeleke.",
+    "image": "products/dental_consultation.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_dental_002",
+    "name": "1-Hour In-Clinic Laser Teeth Whitening",
+    "category": "Cosmetic Dentistry",
+    "price": 65000,
+    "currency": "NGN",
+    "durationMinutes": 60,
+    "depositRequired": 15000,
+    "description": "Painless in-office dental whitening utilizing LED laser activation and dental-grade hydrogen peroxide gel. Brightens teeth 6 to 8 shades in a single 60-minute visit without enamel erosion.",
+    "image": "products/teeth_whitening.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_dental_003",
+    "name": "Ultrasonic Scaling & Polishing (Routine Cleaning)",
+    "category": "Preventive Care",
+    "price": 25000,
+    "currency": "NGN",
+    "durationMinutes": 45,
+    "depositRequired": 10000,
+    "description": "Vibrational ultrasonic plaque and tartar removal with high-gloss prophylactic paste polish. Eliminates coffee, tea, and red wine stains while keeping gums healthy.",
+    "image": "media/dental_operatory.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_dental_004",
+    "name": "Clear Aligner 3D Scan & Smile Assessment",
+    "category": "Orthodontics",
+    "price": 25000,
+    "currency": "NGN",
+    "durationMinutes": 45,
+    "depositRequired": 15000,
+    "description": "Digital 3D intraoral simulation showing exactly how your teeth will move week-by-week with clear aligners before you commit. Credited towards your aligner package.",
+    "image": "products/clear_aligners.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prod_dental_005",
+    "name": "Composite Bonding / Diastema Closure (Per Tooth)",
+    "category": "Cosmetic Dentistry",
+    "price": 35000,
+    "currency": "NGN",
+    "durationMinutes": 45,
+    "depositRequired": 15000,
+    "description": "Artisan aesthetic composite resin bonding to close front tooth gaps (diastema), restore chipped edges, or reshape uneven teeth in a single comfortable appointment.",
+    "image": "products/teeth_whitening.jpg",
+    "isAvailable": true
+  }
+]

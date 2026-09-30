@@ -1,0 +1,60 @@
+[
+  {
+    "id": "prop_realty_001",
+    "name": "Contemporary 4-Bed Semi-Detached Duplex + BQ",
+    "category": "Residential Sales",
+    "price": 260000000,
+    "currency": "NGN",
+    "location": "Orchid Road, Lekki, Lagos",
+    "title": "Governor's Consent",
+    "description": "Brand new, architecturally designed 4-bedroom semi-detached duplex featuring en-suite rooms, fully fitted contemporary kitchen, stamped concrete compound, 4-car parking, smart video doorbell, and separate maids quarters (BQ). Ready for immediate occupancy.",
+    "image": "products/4bed_semi_detached_duplex.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prop_realty_002",
+    "name": "Ultra-Luxury 5-Bed Fully Detached Smart Mansion",
+    "category": "Luxury Mansions",
+    "price": 450000000,
+    "currency": "NGN",
+    "location": "Lekki Phase 1, Lagos",
+    "title": "Governor's Consent",
+    "description": "Exquisite 5-bedroom modern mansion with private infinity swimming pool, rooftop sky lounge, 8-seater cinema room, high-speed elevator, fully automated Control4 smart home automation, and 6-car garage.",
+    "image": "products/smart_detached_mansion.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prop_realty_003",
+    "name": "2-Bed Luxury Waterfront Shortlet Apartment",
+    "category": "Shortlets & Hospitality",
+    "price": 140000,
+    "currency": "NGN",
+    "location": "Admiralty Way, Lekki Phase 1, Lagos",
+    "description": "Bespoke 2-bedroom executive shortlet apartment overlooking the Lekki-Ikoyi waterfront. Features 24/7 power, high-speed Starlink WiFi, Olympic pool, fully equipped kitchen, daily housekeeping, and 24-hour armed security.",
+    "image": "products/waterfront_luxury_shortlet.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prop_realty_004",
+    "name": "500sqm Prime Commercial/Residential Dry Land",
+    "category": "Land & Developments",
+    "price": 38000000,
+    "currency": "NGN",
+    "location": "Alaro City Corridor, Epe Expressway, Lagos",
+    "title": "Certificate of Occupancy (C of O)",
+    "description": "100% dry, level table land located in a master-planned gated development with paved drainage, solar streetlights, and 24/7 access control. Instant physical allocation upon completion of payment.",
+    "image": "products/prime_development_land.jpg",
+    "isAvailable": true
+  },
+  {
+    "id": "prop_realty_005",
+    "name": "VIP Private Chauffeured Inspection Tour Deposit",
+    "category": "Inspection Services",
+    "price": 25000,
+    "currency": "NGN",
+    "location": "Lekki / Ikoyi Corridor",
+    "description": "Private VIP inspection tour with dedicated chauffeur in a luxury SUV accompanied by a senior surveyor. Includes physical document inspection at site. 100% credited toward property purchase.",
+    "image": "media/realty_corporate_office.jpg",
+    "isAvailable": true
+  }
+]

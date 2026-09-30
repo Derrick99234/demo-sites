@@ -1,0 +1,7 @@
+packages:
+  - 'aura-luxe-spa'
+  - 'havencrest-realty'
+  - 'pearl-dental-clinic'
+  - 'urban-grill-lounge'
+allowBuilds:
+  unrs-resolver: true

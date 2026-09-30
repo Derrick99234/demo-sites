@@ -1,0 +1,12 @@
+{
+    "name": "demo-sites-monorepo",
+    "private": true,
+    "scripts": {
+        "dev": "npx concurrently -n \"salon,grill,dental,realty\" -c \"magenta,yellow,cyan,blue\" \"pnpm -C aura-luxe-spa dev -p 3001\" \"pnpm -C urban-grill-lounge dev -p 3002\" \"pnpm -C pearl-dental-clinic dev -p 3003\" \"pnpm -C havencrest-realty dev -p 3004\""
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "unrs-resolver"
+        ]
+    }
+}
